@@ -1,0 +1,74 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Bunny Chow",
+      "price": 36.99,
+      "selected": false,
+      "description": "A popular South African dish consisting of a hollowed-out loaf of bread filled with curry. It's a spicy and hearty meal with a unique presentation."
+    },
+    {
+      "id": 2,
+      "name": "Boerewors Roll",
+      "price": 24.99,
+      "selected": false,
+      "description": "A traditional South African sausage made from beef, lamb, and spices, served in a roll. It's flavorful and often enjoyed at braais (barbecues)."
+    },
+    {
+      "id": 3,
+      "name": "Bobotie",
+      "price": 38.49,
+      "selected": false,
+      "description": "A South African dish made from minced meat, spices, and dried fruit, topped with a custard-like mixture and baked until golden. It's a comforting and aromatic meal."
+    },
+    {
+      "id": 4,
+      "name": "Chakalaka & Pap",
+      "price": 25.99,
+      "selected": false,
+      "description": "Chakalaka is a spicy vegetable relish, while Pap is a staple maize porridge. This combination is a classic South African dish that's both flavorful and filling."
+    },
+    {
+      "id": 5,
+      "name": "Malva Pudding",
+      "price": 23.99,
+      "selected": false,
+      "description": "A sweet, sticky, and spongy dessert made with apricot jam and served with a rich cream sauce. It's a beloved South African treat that's indulgent and delicious."
+    },
+    {
+      "id": 6,
+      "name": "Cape Malay Curry",
+      "price": 49.99,
+      "selected": false,
+      "description": "A flavorful curry with a blend of aromatic spices, commonly made with chicken or lamb. It's influenced by Cape Malay cuisine and offers a balance of sweet and spicy flavors."
+    },
+    {
+      "id": 7,
+      "name": "Milk Tart",
+      "price": 23.49,
+      "selected": false,
+      "description": "A traditional South African dessert with a creamy custard filling in a pastry crust. It's lightly spiced with cinnamon and offers a smooth, sweet flavor."
+    },
+    {
+      "id": 8,
+      "name": "Vetkoek",
+      "price": 12.99,
+      "selected": false,
+      "description": "Deep-fried bread dough that's crispy on the outside and soft on the inside. Often served with savory fillings or as a side dish with curry or stew."
+    },
+    {
+      "id": 9,
+      "name": "Braai Meat Platter",
+      "price": 112.99,
+      "selected": false,
+      "description": "A platter featuring a variety of grilled meats typically served at a South African braai. It includes cuts such as steak, sausage, and lamb chops, often accompanied by side dishes."
+    },
+    {
+      "id": 10,
+      "name": "Koeksisters",
+      "price": 22.49,
+      "selected": false,
+      "description": "A sweet, sticky treat made from braided dough that's deep-fried and then soaked in syrup. It's a popular South African confection with a crispy exterior and a sweet, gooey center."
+    }
+  ]
+}
